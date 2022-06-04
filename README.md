@@ -1,6 +1,9 @@
 # Simple Terminal web assistant
 
-this project is build on javascript and look like you are using your terminal with your peronal assistant.
+this project is build on javascript and look like you are using your terminal with your peronal assistant.<br>
+visit : https://simpleterminal.netlify.app/
+
+![simpleterminal netlify app_](https://user-images.githubusercontent.com/69063039/171982703-e688738c-7a62-435c-b6ff-416d8d276ee2.png)
 
 ## Getting Started
 
@@ -33,6 +36,6 @@ No frameworks are used in this project
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-![simpleterminal netlify app_](https://user-images.githubusercontent.com/69063039/171982703-e688738c-7a62-435c-b6ff-416d8d276ee2.png)
+
 
 
